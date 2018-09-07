@@ -1,0 +1,49 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.lgx.security.core.properties.BrowserProperties",
+      "name": "cn.lgx",
+      "type": "cn.lgx.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "cn.lgx.security.core.properties.SecurityProperties",
+      "name": "lgx.security",
+      "type": "cn.lgx.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cn.lgx.security.core.properties.BrowserProperties",
+      "defaultValue": "\/imooc-signIn.html",
+      "name": "cn.lgx.login-page",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.lgx.security.core.properties.BrowserProperties",
+      "name": "cn.lgx.login-type",
+      "type": "cn.lgx.security.core.properties.LoginType"
+    },
+    {
+      "sourceType": "cn.lgx.security.core.properties.BrowserProperties",
+      "defaultValue": 3600,
+      "name": "cn.lgx.remember-me-seconds",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "cn.lgx.security.core.properties.SecurityProperties",
+      "name": "lgx.security.browser",
+      "type": "cn.lgx.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "cn.lgx.security.core.properties.SecurityProperties",
+      "name": "lgx.security.code",
+      "type": "cn.lgx.security.core.properties.ValidateCodeProperties"
+    },
+    {
+      "sourceType": "cn.lgx.security.core.properties.SecurityProperties",
+      "name": "lgx.security.social",
+      "type": "cn.lgx.security.core.properties.SocialProperties"
+    }
+  ]
+}

@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc8b50ac-8e0d-4a99-b363-c833ac3d3e6a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_1_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_1_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_1_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_0_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_session_spring_session_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_social_spring_social_config_1_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_social_spring_social_core_1_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_social_spring_social_security_1_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_social_spring_social_web_1_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_tx_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_web_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security/spring_security.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_app/spring_security_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/spring_security_browser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/java/cn.lgx.security.browser/BrowserSecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/java/cn.lgx.security.browser/authentication/ImoocAuthenctiationFailureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/java/cn.lgx.security.browser/authentication/ImoocAuthenticationSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/java/cn.lgx.security.browser/support/BrowserSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/java/cn.lgx.security.browser/support/SimpleResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/java/cn.lgx.security.browser/support/SocialUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/resources/resources/imooc-banding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/resources/resources/imooc-signIn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/resources/resources/imooc-signUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/resources/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_browser/src/main/resources/resources/session/invalid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/spring_security_core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/SecurityCoreConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/ValidateCodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/authentication/AbstractChannelSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/BrowserProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/LoginResponseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/LoginType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/QQProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/SecurityConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/SecurityProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/SessionProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/SocialProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/properties/ValidateCodeProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/ImoocSpringSocialConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/SocialConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/api/Weixin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/api/WeixinImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/api/WeixinUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/config/WeixinAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinAccessGrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinOAuth2Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinServiceProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/Exception/ValidateCodeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/ValidateCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/ValidateCodeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/ValidateCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/ValidateCodeProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/ValidateCodeProcessorHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/ValidateCodeSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/ValidateCodeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/config/ValidateCodeBeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/config/mobile/SmsCodeAuthencticationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/config/mobile/SmsCodeAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/config/mobile/SmsCodeAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/config/mobile/SmsCodeAuthenticationSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/image/ImageCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/image/ImageCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/image/ImageCodeProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/image/ImageCodeProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/impl/AbstractValidateCodeProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/sms/DefaultSmsCodeSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/sms/SmsCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/sms/SmsCodeProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/sms/SmsCodeProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_core/src/main/java/cn/lgx/security/core/validate/code/sms/SmsCodeSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/spring_security_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/java/cn/lgx/code/DemoImageCogeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/java/cn/lgx/pluigns/wiremock/wiremock-standalone-2.18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/java/cn/lgx/security/MyUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/java/cn/lgx/service/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/java/cn/lgx/service/impl/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/resources/resources/demo-binding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/resources/resources/demo-signIn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/resources/resources/demo-signUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/resources/resources/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/resources/resources/error/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/resources/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/resources/resources/wiremock.response/01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it教程/项目实践代码/springSecurity/spring_security_demo/src/main/resources/resources/wiremock.response/02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_browser/src/main/java/cn.lgx.security.browser/authentication/BDSSiteAuthenctiationFailureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_browser/src/main/java/cn.lgx.security.browser/authentication/BDSSiteAuthenticationSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/WeixinProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteConnectView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteConnectionStatusView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteSpringSocialConfigurer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/c++/offer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/c++/offer/a.cpp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Preferences/CLion2016.2/options/git.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../植物大战僵尸/植物大战僵尸.capx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../植物大战僵尸/植物大战僵尸.capx.autosave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../植物大战僵尸/植物大战僵尸.capx.backup1" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/spring_app/target/" />
+    <ignored path="$PROJECT_DIR$/spring_browser/target/" />
+    <ignored path="$PROJECT_DIR$/spring_demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring_security/target/" />
+    <ignored path="$PROJECT_DIR$/spring_core/target/" />
+    <ignored path="$PROJECT_DIR$/spring_security_app/target/" />
+    <ignored path="$PROJECT_DIR$/spring_security_demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring_security_browser/target/" />
+    <ignored path="$PROJECT_DIR$/spring_security_core/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WeixinConnectionFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinConnectionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeixinAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-61">
+              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidateCodeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/ValidateCodeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring_security_demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecurityCoreConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/SecurityCoreConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BDSSiteConnectionStatusView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteConnectionStatusView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-91">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BDSSiteConnectView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteConnectView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BDSSiteSpringSocialConfigurer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteSpringSocialConfigurer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeixinServiceProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinServiceProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#1102#1103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeixinOAuth2Template.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinOAuth2Template.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/user</find>
+      <find>getinfo</find>
+      <find>Cr</find>
+      <find>crea</find>
+      <find>user</find>
+      <find>update</find>
+      <find>de</find>
+      <find>getin</find>
+      <find>id</find>
+      <find>star</find>
+      <find>mysql</find>
+      <find>se</find>
+      <find>security</find>
+      <find>query</find>
+      <find>Get</find>
+      <find>dofilter</find>
+      <find>password</find>
+      <find>me</find>
+      <find>------</find>
+      <find>image</find>
+      <find>+／／／／／／／／／</find>
+      <find>=======</find>
+      <find>-----</find>
+      <find>SESSION_KEY_PREFIX</find>
+      <find>imooc</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/ImoocSpringSocialConfigurer.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/connet/QQServiceProvider.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/connet/QQOAuth2Template.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/connet/QQConnectionFactory.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/connet/QQAdapter.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/config/QQAutoConfig.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/api/QQUserInfo.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/api/QQImpl.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/api/QQ.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/ValidateCodeProperties.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/SessionProperties.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/LoginResponseType.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/QQProperties.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/SecurityConstants.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/BrowserProperties.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/SecurityProperties.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/authentication/AbstractChannelSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/code/DemoImageCogeGenerator.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/dto/FileInfo.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/dto/UserQueryCondition.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/exception/UserNotExistException.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/interceptor/TimeInterceptor.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/service/HelloService.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/service/impl/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/validator/MyConstraint.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/validator/MyConstraintValidator.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/validator/ValidateException.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/aspect/TimeAspect.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/async/AsyncController.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/async/DeferredResultHolder.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/async/MockQueue.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/async/QueueListener.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/controller/FileController.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/filter/TimeFilter.java" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_security_demo/src/test/java/cn.lgx.web.controller/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/WeixinProperties.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/SocialProperties.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinAdapter.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinConnectionFactory.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/BDSSiteSpringSocialConfigurer.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/ImoocConnectionStatusView.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteConnectionStatusView.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/ImoocConnectView.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteSpringSocialConfigurer.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteConnectView.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/config/WeixinAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinOAuth2Template.java" />
+        <option value="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinServiceProvider.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring_security Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="287" />
+    <option name="y" value="44" />
+    <option name="width" value="1251" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.54615384" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.lgx" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_security_browser/src/main/java" />
+      <recent name="$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/pluigns/wiremock" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.lgx.web.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.lgx.security" />
+      <recent name="cn.lgx.security.core.validate.code.sms" />
+      <recent name="cn.lgx" />
+      <recent name="cn.lgx.web.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social" />
+      <recent name="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties" />
+      <recent name="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin" />
+      <recent name="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq" />
+      <recent name="$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication (1)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="MockServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lgx.web.wiremock.MockServer" />
+      <module name="spring_security_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lgx.web.wiremock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="UserControllerTest.whenCreateSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_security_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lgx.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.lgx.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="cn.lgx.web.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="whenCreateSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserControllerTest.whenDeleteSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_security_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lgx.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.lgx.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="cn.lgx.web.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="whenDeleteSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserControllerTest.whenUpdateSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_security_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lgx.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.lgx.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="cn.lgx.web.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="whenUpdateSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserControllerTest.whenUploadSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_security_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lgx.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.lgx.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="cn.lgx.web.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="whenUploadSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_security_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.lgx.DemoApplication" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_security_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lgx.DemoApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication (1)" />
+      <item itemvalue="JUnit.UserControllerTest.whenCreateSuccess" />
+      <item itemvalue="JUnit.UserControllerTest.whenUpdateSuccess" />
+      <item itemvalue="JUnit.UserControllerTest.whenDeleteSuccess" />
+      <item itemvalue="JUnit.UserControllerTest.whenUploadSuccess" />
+      <item itemvalue="Application.MockServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MockServer" />
+        <item itemvalue="JUnit.UserControllerTest.whenUploadSuccess" />
+        <item itemvalue="JUnit.UserControllerTest.whenDeleteSuccess" />
+        <item itemvalue="JUnit.UserControllerTest.whenUpdateSuccess" />
+        <item itemvalue="JUnit.UserControllerTest.whenCreateSuccess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc8b50ac-8e0d-4a99-b363-c833ac3d3e6a" name="Default" comment="" />
+      <created>1528955000835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528955000835</updated>
+      <workItem from="1528955002413" duration="156000" />
+      <workItem from="1528955178608" duration="1403000" />
+      <workItem from="1528956849339" duration="4211000" />
+      <workItem from="1528969133202" duration="3991000" />
+      <workItem from="1529057060226" duration="9201000" />
+      <workItem from="1529305953862" duration="8912000" />
+      <workItem from="1529389801794" duration="6698000" />
+      <workItem from="1529556961395" duration="13988000" />
+      <workItem from="1529637292115" duration="818000" />
+      <workItem from="1529732858817" duration="10837000" />
+      <workItem from="1535451312681" duration="5862000" />
+      <workItem from="1535553234548" duration="2064000" />
+      <workItem from="1535606810365" duration="4736000" />
+      <workItem from="1535614851407" duration="45866000" />
+      <workItem from="1535804062745" duration="10905000" />
+      <workItem from="1535824311545" duration="325000" />
+      <workItem from="1535871231731" duration="15269000" />
+      <workItem from="1536034337512" duration="1000" />
+      <workItem from="1536034897839" duration="12000" />
+      <workItem from="1536034914910" duration="1000" />
+      <workItem from="1536068912634" duration="732000" />
+      <workItem from="1536082635133" duration="2561000" />
+      <workItem from="1536130780235" duration="60000" />
+      <workItem from="1536131533127" duration="1808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserControllerTest_whenUpdateSuccess - 2018.06.18 at 16h 42m 07s.xml">
+      <configuration name="UserControllerTest.whenUpdateSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUpdateSuccess - 2018.06.18 at 16h 45m 12s.xml">
+      <configuration name="UserControllerTest.whenUpdateSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUpdateSuccess - 2018.06.18 at 16h 46m 32s.xml">
+      <configuration name="UserControllerTest.whenUpdateSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUpdateSuccess - 2018.06.18 at 20h 31m 20s.xml">
+      <configuration name="UserControllerTest.whenUpdateSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenDeleteSuccess - 2018.06.18 at 21h 00m 28s.xml">
+      <configuration name="UserControllerTest.whenDeleteSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenDeleteSuccess - 2018.06.18 at 21h 01m 03s.xml">
+      <configuration name="UserControllerTest.whenDeleteSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenDeleteSuccess - 2018.06.18 at 21h 03m 35s.xml">
+      <configuration name="UserControllerTest.whenDeleteSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.06.20 at 19h 28m 46s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.06.20 at 19h 28m 47s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.06.20 at 19h 29m 21s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="150417000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32859176" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.16720517" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39034483" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.31586206" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32965517" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42206895" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5103448" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21405493" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32965517" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5958621" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5103448" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.31586206" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.32965517" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32965517" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.16720517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21163167" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39034483" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/controller/UserController.java</url>
+          <line>63</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/authentication/AbstractChannelSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/code/DemoImageCogeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/dto/FileInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/dto/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/dto/UserQueryCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/exception/UserNotExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/interceptor/TimeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/security/MyUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/service/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/service/impl/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/validator/MyConstraint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/validator/ValidateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/validator/MyConstraintValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/aspect/TimeAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/async/AsyncController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/async/DeferredResultHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/async/MockQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/async/QueueListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/controller/1529494125907.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/controller/ControllerExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1510">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/filter/TimeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/web/wiremock/MockServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/java/cn/lgx/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/resources/resources/demo-binding.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/resources/resources/demo-signUp.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/resources/resources/demo-signIn.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/resources/resources/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/src/test/java/cn.lgx.web.controller/UserControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1090">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/WeixinProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/SecurityProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/properties/SocialProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/config/QQAutoConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE-sources.jar!/org/springframework/web/servlet/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-359">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/qq/BDSSiteSpringSocialConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/config/WeixinAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1642#1643#0" expanded="true" />
+            <element signature="e#1678#1679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinAccessGrant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinOAuth2Template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/weixin/connect/WeixinServiceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteConnectionStatusView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteConnectView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/social/BDSSiteSpringSocialConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/SecurityCoreConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_core/src/main/java/cn/lgx/security/core/ValidateCodeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_security_demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring_app:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54615384" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54615384" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring_security_core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework.social:spring-social-core:1.1.4.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54615384" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
